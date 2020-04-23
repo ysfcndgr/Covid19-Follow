@@ -1,0 +1,12 @@
+C:\Users\YD\source\repos\Covid19\Covid19\bin\Debug\Covid19.exe.config
+C:\Users\YD\source\repos\Covid19\Covid19\bin\Debug\Covid19.exe
+C:\Users\YD\source\repos\Covid19\Covid19\bin\Debug\Covid19.pdb
+C:\Users\YD\source\repos\Covid19\Covid19\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YD\source\repos\Covid19\Covid19\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YD\source\repos\Covid19\Covid19\obj\Debug\Covid19.Properties.Resources.resources
+C:\Users\YD\source\repos\Covid19\Covid19\obj\Debug\Covid19.csproj.GenerateResource.cache
+C:\Users\YD\source\repos\Covid19\Covid19\obj\Debug\Covid19.csproj.CoreCompileInputs.cache
+C:\Users\YD\source\repos\Covid19\Covid19\obj\Debug\Covid19.csproj.CopyComplete
+C:\Users\YD\source\repos\Covid19\Covid19\obj\Debug\Covid19.exe
+C:\Users\YD\source\repos\Covid19\Covid19\obj\Debug\Covid19.pdb
+C:\Users\YD\source\repos\Covid19\Covid19\obj\Debug\Covid19.Main.resources

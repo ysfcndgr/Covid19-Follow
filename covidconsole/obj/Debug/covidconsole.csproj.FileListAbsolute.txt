@@ -1,0 +1,10 @@
+C:\Users\YD\source\repos\Covid19\covidconsole\bin\Debug\covidconsole.exe.config
+C:\Users\YD\source\repos\Covid19\covidconsole\bin\Debug\covidconsole.exe
+C:\Users\YD\source\repos\Covid19\covidconsole\bin\Debug\covidconsole.pdb
+C:\Users\YD\source\repos\Covid19\covidconsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YD\source\repos\Covid19\covidconsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YD\source\repos\Covid19\covidconsole\obj\Debug\covidconsole.csprojAssemblyReference.cache
+C:\Users\YD\source\repos\Covid19\covidconsole\obj\Debug\covidconsole.csproj.CoreCompileInputs.cache
+C:\Users\YD\source\repos\Covid19\covidconsole\obj\Debug\covidconsole.csproj.CopyComplete
+C:\Users\YD\source\repos\Covid19\covidconsole\obj\Debug\covidconsole.exe
+C:\Users\YD\source\repos\Covid19\covidconsole\obj\Debug\covidconsole.pdb
